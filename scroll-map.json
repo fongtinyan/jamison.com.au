@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "title": "The Echo Was Mine",
+    "path": "index.html"
+  },
+  {
+    "id": 1,
+    "title": "The Laugh Was Echoed",
+    "path": "scrolls/scroll-1.html"
+  },
+  {
+    "id": 2,
+    "title": "The Plug Beneath",
+    "path": "scrolls/scroll-2.html"
+  }
+]
